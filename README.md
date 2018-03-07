@@ -12,7 +12,7 @@
 
 - [C# 4.0 The Complete Reference - Herbert Schildt](https://g.co/kgs/tuhfqC)
 - [C# in Depth - Jon Skeet](https://g.co/kgs/gHYF6g)
-- [CLR VIA C# (2) - Jeffrey Richter](https://g.co/kgs/Hvm1Dq)
+- [CLR VIA C# - Jeffrey Richter](https://g.co/kgs/Hvm1Dq)
 - [Pro C# 5.0 and the .NET 4.5 Framework - Andrew Troelsen](https://g.co/kgs/iTQLnL)
 - [C# 4.0 in a Nutshell: The Definitive Reference - Joseph Albahari](https://g.co/kgs/Thtmdw)
 - [Real-World Functional Programming: With Examples in F# and C# - Jon Skeet and Tomas Petricek](https://g.co/kgs/uQ7JBc)
