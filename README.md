@@ -7,8 +7,13 @@
 - [Code Complete - Steve McConnell](https://g.co/kgs/kkaWAa)
 - [The Clean Coder: A Code of Conduct for Professional Programmers - Robert Cecil Martin](https://g.co/kgs/e2QJDb)
 - [Elegant Objects 1/2 - Yegor Bugayenko](https://g.co/kgs/kWRDp8)
+
+### Other
+- [Getting Started with OAuth 2.0 - Ryan Boyd](https://g.co/kgs/iEwc8U)
 - [Joel on Software 1/2 - Joel Spolsky](https://g.co/kgs/HBFp2Q)
 - [Computer Networks - Andrew S. Tanenbaum](https://g.co/kgs/p9DZV5)
+- [CQRS Journey - MSDN - Microsoft](https://msdn.microsoft.com/en-us/library/jj554200.aspx)
+- [ServiceStack Succinctly - Zoran Maksimovic](https://g.co/kgs/12qgBj)
 
 ### C#
 - [C# 4.0 The Complete Reference - Herbert Schildt](https://g.co/kgs/tuhfqC)
@@ -17,6 +22,13 @@
 - [CLR VIA C# - Jeffrey Richter](https://g.co/kgs/Hvm1Dq)
 - [Pro C# 5.0 and the .NET 4.5 Framework - Andrew Troelsen](https://g.co/kgs/iTQLnL)
 - [C# 4.0 in a Nutshell: The Definitive Reference - Joseph Albahari](https://g.co/kgs/Thtmdw)
+- [Functional Programming in C#: Classic Programming Techniques for Modern - Oliver Sturm](https://g.co/kgs/6duWui)
+
+### .NET
+- [Pro ASP.NET MVC 5 - Adam Freeman](https://g.co/kgs/qnpw6w)
+- [Pro ASP.NET Web API: HTTP Web Services in ASP.NET - Alexander Zeitler, Ali Kheyrollahi, Ali Uurlu, and Tugberk Ugurlu](https://g.co/kgs/1zK52z)
+- [Programming Entity Framework - Julia Lerman](https://g.co/kgs/1YjtHk)
+- [Programming Entity Framework: Code First - Julia Lerman and Rowan Miller](https://g.co/kgs/1ZFZqG)
 
 
 ### F#
@@ -26,6 +38,8 @@
 ### Haskell
 - [Learn You a Haskell for Great Good! A Beginner's Guide - Miran Lipovaca](https://g.co/kgs/fHRNhh)
 
+### Javascript
+- [Learning JavaScript Design Patterns - Addy Osmani](https://g.co/kgs/AzhfS5)
 ### FP
 - [Structure and Interpretation of Computer Programs - Gerald Jay Sussman and Hal Abelson](https://g.co/kgs/wjDULn) 
 - [How to Design Programs - Matthew Flatt, Matthias Felleisen, Robert Bruce Findler, and Shriram Krishnamurthi](https://g.co/kgs/eVceHN)
