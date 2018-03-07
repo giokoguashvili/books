@@ -40,14 +40,14 @@
 
 ### Javascript
 - [Learning JavaScript Design Patterns - Addy Osmani](https://g.co/kgs/AzhfS5)
+- [ES6 and Beyond - Kyle Simpson](https://g.co/kgs/DwcZ7K)
+
 ### FP
 - [Structure and Interpretation of Computer Programs - Gerald Jay Sussman and Hal Abelson](https://g.co/kgs/wjDULn) 
 - [How to Design Programs - Matthew Flatt, Matthias Felleisen, Robert Bruce Findler, and Shriram Krishnamurthi](https://g.co/kgs/eVceHN)
 
 
-
-# want to read
-
+# Want to read
 - [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# - Scott Wlaschin](https://g.co/kgs/xxhc1o)
 - [Introduction to Functional Programming - John Harrison](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/)
 - [Основы функционального программирования на языке Haskell - Макеев Григорий Анатольевич](http://greg.southural.ru/science/MakeevGA-Haskell.pdf)
