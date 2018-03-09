@@ -45,7 +45,8 @@
 ### FP
 - [Structure and Interpretation of Computer Programs - Gerald Jay Sussman and Hal Abelson](https://g.co/kgs/wjDULn) 
 - [How to Design Programs - Matthew Flatt, Matthias Felleisen, Robert Bruce Findler, and Shriram Krishnamurthi](https://g.co/kgs/eVceHN)
-
+- [Types and Programming Languages - Benjamin C. Pierce](https://g.co/kgs/aX4rFS)
+- [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/)
 
 # Want to read
 - [Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F# - Scott Wlaschin](https://g.co/kgs/xxhc1o)
