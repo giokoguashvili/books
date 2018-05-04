@@ -7,6 +7,7 @@
 - [Code Complete - Steve McConnell](https://g.co/kgs/kkaWAa)
 - [The Clean Coder: A Code of Conduct for Professional Programmers - Robert Cecil Martin](https://g.co/kgs/e2QJDb)
 - [Elegant Objects 1/2 - Yegor Bugayenko](https://g.co/kgs/kWRDp8)
+- [Introduction to Rx - Lee Campbell](http://www.introtorx.com/)
 
 ### Other
 - [Getting Started with OAuth 2.0 - Ryan Boyd](https://g.co/kgs/iEwc8U)
