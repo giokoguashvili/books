@@ -54,7 +54,8 @@
 - [Introduction to Functional Programming - John Harrison](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/)
 - [Основы функционального программирования на языке Haskell - Макеев Григорий Анатольевич](http://greg.southural.ru/science/MakeevGA-Haskell.pdf)
 - [Учебник по Haskell - Антон Холомьёв](http://anton-k.github.io/ru-haskell-book/files/ru-haskell-book.pdf)
+- [Principles of Transaction Processing](https://g.co/kgs/SBu3FR)
+- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://g.co/kgs/ynQpvV)
 
 # papers
-
 - [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
